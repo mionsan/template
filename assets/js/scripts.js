@@ -45,12 +45,12 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		1,
-                'month': 	1,
-                'year': 	2022,
-                'hour': 	00,
-                'min': 		05,
-                'sec': 		01
+                'day': 		31,
+                'month': 	12,
+                'year': 	2021,
+                'hour': 	23,
+                'min': 		59,
+                'sec': 		59
             },
             omitWeeks: true
         });
