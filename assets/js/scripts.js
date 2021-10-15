@@ -49,8 +49,8 @@ $(document).ready(function(){
                 'month': 	1,
                 'year': 	2022,
                 'hour': 	00,
-                'min': 		00,
-                'sec': 		00
+                'min': 		05,
+                'sec': 		01
             },
             omitWeeks: true
         });
