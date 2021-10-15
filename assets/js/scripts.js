@@ -45,9 +45,9 @@ $(document).ready(function(){
 
         $('#watch').countDown({
             targetDate: {
-                'day': 		25,
+                'day': 		30,
                 'month': 	12,
-                'year': 	2017,
+                'year': 	2021,
                 'hour': 	11,
                 'min': 		13,
                 'sec': 		0
