@@ -48,9 +48,9 @@ $(document).ready(function(){
                 'day': 		30,
                 'month': 	12,
                 'year': 	2021,
-                'hour': 	11,
-                'min': 		13,
-                'sec': 		0
+                'hour': 	23,
+                'min': 		59,
+                'sec': 		59
             },
             omitWeeks: true
         });
